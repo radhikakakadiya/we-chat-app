@@ -118,7 +118,19 @@ allow read, write: if false;
 /// dir chnage aj nai thti
 /// git ma kyi i
 /// ssue na
-
+/// hve hu aa ma changes kru to pela ma b thayi jase ne?
+/// tare comit karvu pade tara changes
+/// ha ha ee to karis commit ane push
+/// ha thai jase
+/// let  me see
+/// aama me kru nthi direct me github ma kruc he  jo ama
+/// sukare che
+/// ndroid studio ma push nyi kru me mne
+/// khbr nthi
+/// aaetle me aama add kri ne kru chu
+/// aa side ma tara chanes to ave a
+/// pn jo hmna me ek folder banavu "testing" kri ne ee aama no aavu k aa new add thayu che m
+/// folder batce nai pan add thai jay
 
 /*
 rules_version = '2';
